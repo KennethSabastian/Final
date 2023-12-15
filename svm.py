@@ -9,8 +9,6 @@ import pandas as pd
 
 data = pd.read_csv('clean.csv')
 
-plt.rcParams['font.family'] = 'Arial'
-
 # Plot the distribution of classes before applying the model
 plt.figure(figsize=(10, 5))
 data['Label'].value_counts().plot(kind='bar')
