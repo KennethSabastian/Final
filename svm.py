@@ -13,6 +13,7 @@ data = pd.read_csv('clean.csv')
 plt.figure(figsize=(10, 5))
 data['Label'].value_counts().plot(kind='bar')
 plt.title('Distribution of Classes before Applying the Model')
+plt.savefig("classes_before_model.png")
 plt.show()
 
 # Encoding the labels
@@ -42,6 +43,7 @@ y_pred = svm.predict(X_test_vec)
 plt.figure(figsize=(10, 5))
 pd.Series(y_pred).value_counts().plot(kind='bar')
 plt.title('Distribution of Predicted Classes')
+plt.savefig("predicted_classes.png")
 plt.show()
 
 # Evaluating the model
@@ -69,6 +71,7 @@ print(f"After:\n{c_after}")
 plt.figure(figsize=(10, 5))
 data['predicted_label'].value_counts().plot(kind='bar')
 plt.title('Distribution of Classes after Applying the Model')
+plt.savefig("classes_after_model.png")
 plt.show()
 
 # show the data which is misclassified
