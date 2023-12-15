@@ -84,7 +84,7 @@ changed = data[data['Label'] != data['predicted_label']]
 print(changed)
 
 # export the change to a csv file
-changed.to_csv('changed_naive_bayes.csv', index=False)
+changed.to_csv('changed_svm.csv', index=False)
 
 # Export the DataFrame to a CSV file
-data.to_csv('classified_naive_bayes.csv', index=False)
+data.to_csv('classified_svm.csv', index=False)
