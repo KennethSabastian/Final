@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 from sklearn.preprocessing import LabelEncoder
-
+from sklearn.svm import SVC
 import pandas as pd
 
 data = pd.read_csv('clean.csv')
@@ -30,11 +30,15 @@ X_train_vec = vectorizer.fit_transform(X_train)
 X_test_vec = vectorizer.transform(X_test)
 
 # Training the Naive Bayes classifier
-nb_classifier = MultinomialNB()
-nb_classifier.fit(X_train_vec, y_train)
+#nb_classifier = MultinomialNB()
+#nb_classifier.fit(X_train_vec, y_train)
+#
+## Predicting on the test set
+#y_pred = nb_classifier.predict(X_test_vec)
 
-# Predicting on the test set
-y_pred = nb_classifier.predict(X_test_vec)
+svm = SVC(kernel = "rbf")
+svm.fit(X_train_vec,y_train)
+y_pred = svm.predict(X_test_vec)
 
 # Plot the distribution of predicted classes
 plt.figure(figsize=(10, 5))
@@ -53,7 +57,7 @@ print(f"Classification Report:\n{class_report}")
 
 # Apply the model to the entire dataset
 X_full = vectorizer.transform(data['full_text'])
-data['predicted_label'] = nb_classifier.predict(X_full)
+data['predicted_label'] = svm.predict(X_full)
 
 # print the count for each class
 c_before = data['Label'].value_counts()
