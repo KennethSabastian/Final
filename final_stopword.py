@@ -61,10 +61,10 @@ def split_convert_stopword(text,list_stopwords):
 
 # Baca file csv (Data Bully Dimas TI)
 data = pd.read_csv('data.csv')
-display(data)
+#display(data)
 
-# Download Stopword
-nltk.download("stopwords")
+# Download Stopword only when running for the first time
+#nltk.download("stopwords")
 
 # Preprocessing data full_text
 list_stopwords = set(stopwords.words('indonesian'))
