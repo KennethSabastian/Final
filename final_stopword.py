@@ -12,6 +12,7 @@ def preposessing(text):
     # Mengubah teks menjadi lowercase
     text = text.lower().split()
     text2 = []
+    # Mengecek kata, menghapus link, add, dan hastag
     for kata in text:
         if kata.find("@") !=-1 or kata.find("http") !=-1 or kata.find("#") !=-1:
             continue
@@ -41,7 +42,7 @@ def preposessing(text):
     text = re.sub(r'(.)\1+', r'\1', text)
     return text
 
-def split(text,list_stopwords):
+def split_convert_stopword(text,list_stopwords):
     text = text.split()
     text2 = []
     for kata in text:
@@ -59,7 +60,7 @@ from nltk.corpus import stopwords
 
 list_stopwords = set(stopwords.words('indonesian'))
 print(list_stopwords)
-data['full_text'] = data['full_text'].apply(preposessing).apply(lambda x : split(x,list_stopwords))
+data['full_text'] = data['full_text'].apply(preposessing).apply(lambda x : split_convert_stopword(x,list_stopwords))
 
 # Drop kolom tweet_url
 data = data.drop(['tweet_url'], axis=1)
@@ -80,13 +81,7 @@ print("Distribusi Kelas: ")
 print(data['Label'].value_counts())
 print("")
 # Statistik Kata: Identifikasi kata-kata paling umum yang muncul
-from collections import Counter
-import itertools
-
-# Menghitung jumlah kata
-#data['full_text'] = data['full_text'].apply(Counter)
-## Menghitung jumlah kata yang unik
-#data['full_text'] = data['full_text'].apply(dict)
+# Menghitung Frekuensi dari kata dalam data
 word_count = dict()
 for index in range(len(data.index)):
     for kata in data.iloc[index,0]:
@@ -95,11 +90,7 @@ for index in range(len(data.index)):
         word_count[kata]+=1
 word_count_final = sorted(word_count.items(), key=lambda x:x[1],reverse=True)
 print("List 5 kata paling umum:")
-
-file = open("text_frequency.txt","w")
-for i in range(len(data.index)):
-    file.write(f"{word_count_final[i][0]} : {word_count_final[i][1]}\n")
-
+# Print 5 kata dengan frekuensi terbanyak
 for i in range(5):
     print(f"{word_count_final[i][0]} : {word_count_final[i][1]}")
 # Simpan hasil preposessing ke file csv
