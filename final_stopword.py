@@ -1,13 +1,10 @@
-# Baca file csv
 import pandas as pd
 from IPython.display import display
 from convert import *
-# Baca file csv (Data Bully Dimas TI)
-data = pd.read_csv('data.csv')
-display(data)
-
-# Preposessing text
 import re
+from nltk.corpus import stopwords
+import nltk
+# Preposessing text
 def preposessing(text):
     # Mengubah teks menjadi lowercase
     text = text.lower().split()
@@ -42,6 +39,13 @@ def preposessing(text):
     text = re.sub(r'(.)\1+', r'\1', text)
     return text
 
+def clean_label(kata):
+    if kata.find("No"):
+        kata = "NoBully"
+    else:
+        kata = "Bully"
+    return kata
+
 def split_convert_stopword(text,list_stopwords):
     text = text.split()
     text2 = []
@@ -54,12 +58,16 @@ def split_convert_stopword(text,list_stopwords):
             text2.append(kata)
     return text2
 
-import nltk
-#nltk.download("stopwords")
-from nltk.corpus import stopwords
 
+# Baca file csv (Data Bully Dimas TI)
+data = pd.read_csv('data.csv')
+display(data)
+
+# Download Stopword
+nltk.download("stopwords")
+
+# Preprocessing data full_text
 list_stopwords = set(stopwords.words('indonesian'))
-print(list_stopwords)
 data['full_text'] = data['full_text'].apply(preposessing).apply(lambda x : split_convert_stopword(x,list_stopwords))
 
 # Drop kolom tweet_url
@@ -69,12 +77,6 @@ data = data.drop(['tweet_url'], axis=1)
 # Jumlah Total Data: Hitung jumlah tweet yang ada dalam dataset
 print("Jumlah Total Data: ", len(data))
 # Distribusi Kelas: Identifikasi berapa banyak tweet yang terkait dengan bullying dan berapa yang tidak
-def clean_label(kata):
-    if kata.find("No"):
-        kata = "NoBully"
-    else:
-        kata = "Bully"
-    return kata
 
 data['Label'] = data['Label'].apply(clean_label)
 print("Distribusi Kelas: ")
