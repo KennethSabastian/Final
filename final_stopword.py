@@ -81,6 +81,7 @@ print("Distribusi Kelas: ")
 print(data['Label'].value_counts())
 print("")
 # Statistik Kata: Identifikasi kata-kata paling umum yang muncul
+
 # Menghitung Frekuensi dari kata dalam data
 word_count = dict()
 for index in range(len(data.index)):
@@ -89,9 +90,16 @@ for index in range(len(data.index)):
             word_count[kata] = 0
         word_count[kata]+=1
 word_count_final = sorted(word_count.items(), key=lambda x:x[1],reverse=True)
-print("List 5 kata paling umum:")
+
+# Menulis hasil frekuensi ke dalam file
+file = open("text_frequency.txt","w")
+for i in range(len(data.index)):
+    file.write(f"{word_count_final[i][0]} : {word_count_final[i][1]}\n")
+
 # Print 5 kata dengan frekuensi terbanyak
+print("List 5 kata paling umum:")
 for i in range(5):
     print(f"{word_count_final[i][0]} : {word_count_final[i][1]}")
+
 # Simpan hasil preposessing ke file csv
 data.to_csv('clean.csv', index=False)
