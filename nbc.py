@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from sklearn.preprocessing import LabelEncoder
 import pandas as pd
 
-data = pd.read_csv('finale.csv')
+data = pd.read_csv('clean.csv')
 
 plt.rcParams['font.family'] = 'Arial'
 

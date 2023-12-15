@@ -1,0 +1,249 @@
+full_text,Label,text,predicted_label
+"['minimal', 'kalau', 'gue', 'editin', 'cari', 'materinya', 'anjing', 'udah', 'tugas', 'materi', 'kagak', 'cari', 'boro', 'boro', 'cari', 'pesan', 'nya', 'read', 'aja', 'kagak', 'babi', 'lo', 'anjing', 'beban', 'benar', 'izin', 'misuh', 'iya']",NoBully, minimal kalau gue editin cari materinya anjing udah tugas materi kagak cari boro boro cari pesan nya read aja kagak babi lo anjing beban benar izin misuh iya ,Bully
+"['jamur', 'ngapain', 'sih', 'becky', 'negeri', 'mending', 'tiduran', 'rumah', 'main', 'anjing', 'pergi', 'pergi']",NoBully, jamur ngapain sih becky negeri mending tiduran rumah main anjing pergi pergi ,Bully
+"['pagi', 'pagi', 'udah', 'ngeliat', 'kelakuan', 'solos', 'kontol', 'anjing', 'muka', 'lo', 'gue', 'remes', 'remes', 'biar', 'kisut', 'anjing']",NoBully, pagi pagi udah ngeliat kelakuan solos kontol anjing muka lo gue remes remes biar kisut anjing ,Bully
+"['st', 'of', 'al', 'boston', 'anjing', 'sebel', 'belagu', 'sangat', 'giliran', 'ulti', 'sama', 'mew', 'ciut', 'lo', 'muntah']",NoBully, st of al boston anjing sebel belagu sangat giliran ulti sama mew ciut lo muntah ,Bully
+"['lo', 'mendingan', 'kawin', 'anjing', 'aja', 'dah', 'anaknya', 'mengongong', 'tidak', 'nangis']",NoBully, lo mendingan kawin anjing aja dah anaknya mengongong tidak nangis ,Bully
+"['emang', 'anjing', 'sadar', 'kh', 'u']",NoBully, emang anjing sadar kh u ,Bully
+"['bangsat', 'ijo', 'anjing', 'gausah', 'klakson', 'tidak', 'motor', 'belajar', 'anjing', 'tolol', 'bahayain', 'orang', 'anjing', 'rausah', 'ngebut', 'cok', 'berisik', 'knalpot', 'jamet', 'kabupaten', 'polisi', 'tidur', 'segede', 'dah', 'ya', 'alah', 'sih', 'orang', 'orang', 'bego', 'kaya', 'begini', 'dikasih', 'motor']",NoBully, bangsat ijo anjing gausah klakson tidak motor belajar anjing tolol bahayain orang anjing rausah ngebut cok berisik knalpot jamet kabupaten polisi tidur segede dah ya alah sih orang orang bego kaya begini dikasih motor ,Bully
+"['mingu', 'lonte', 'anjing', 'jalang']",NoBully, mingu lonte anjing jalang ,Bully
+"['keluarga', 'elu', 'anjing', 'kafir', 'monyet']",NoBully, keluarga elu anjing kafir monyet ,Bully
+"['napa', 'si', 'babi', 'ovt', 'cewe']",NoBully, napa si babi ovt cewe ,Bully
+"['babi', 'tidak', 'sopan', 'sopanya', 'lo']",NoBully, babi tidak sopan sopanya lo ,Bully
+"['sumpah', 'anjing', 'temen', 'slowrespon', 'banget', 'babi']",NoBully, sumpah anjing temen slowrespon banget babi ,Bully
+"['gondo', 'sama', 'babi', 'lt']",NoBully, gondo sama babi lt ,Bully
+"['lo', 'babi', 'gahar']",NoBully, lo babi gahar ,Bully
+"['babi', 'ngetap', 'doang']",NoBully, babi ngetap doang ,Bully
+"['semangat', 'bang', 'dikit', 'lagi', 'lucu']",NoBully, semangat bang dikit lagi lucu ,Bully
+"['bajingan', 'tolol', 'dongo', 'banget', 'emang', 'nya', 'dunia', 'rocky', 'gerung', 'doang', 'contoh', 'kau', 'pelacur', 'kampung', 'namanya', 'pelacur', 'kampung', 'mu', 'doang', 'betul', 'tidak', 'monyet']",NoBully, bajingan tolol dongo banget emang nya dunia rocky gerung doang contoh kau pelacur kampung namanya pelacur kampung mu doang betul tidak monyet ,Bully
+"['pulau', 'rempang', 'berduka', 'orang', 'in', 'kemana', 'aja', 'hilang', 'telan', 'bumi', 'udah', 'kubur', 'ngepet', 'pindah', 'cari', 'sasaran', 'bisnis', 'investorx', 'coba', 'bajingan', 'tolol']",NoBully, pulau rempang berduka orang in kemana aja hilang telan bumi udah kubur ngepet pindah cari sasaran bisnis investorx coba bajingan tolol ,Bully
+"['nya', 'bajingan']",Bully, nya bajingan ,NoBully
+"['buzerpki', 'munafik', 'bajingan', 'tolol', 'cebong', 'penjilat', 'bangsa', 'kader', 'abubu', 'in', 'gk', 'mengalahkan', 'anis', 'karna', 'ganjar', 'korupsi', 'ktp', 'wowok', 'pendukungx', 'udah', 'kecewa', 'munafik']",NoBully, buzerpki munafik bajingan tolol cebong penjilat bangsa kader abubu in gk mengalahkan anis karna ganjar korupsi ktp wowok pendukungx udah kecewa munafik ,Bully
+"['hukum', 'dunia', 'hukum', 'alam', 'kebal', 'camat', 'pelaku', 'bajingan', 'semoga', 'akhirat', 'terbalas', 'telak', 'kuat', 'tabah', 'ya', 'samsul', 'alah', 'naikin', 'derajat', 'martabat', 'keluarga', 'setingi', 'langit', 'udah', 'kacau', 'sistem', 'hukum', 'negara']",NoBully, hukum dunia hukum alam kebal camat pelaku bajingan semoga akhirat terbalas telak kuat tabah ya samsul alah naikin derajat martabat keluarga setingi langit udah kacau sistem hukum negara ,Bully
+"['temen', 'gue', 'brengsek', 'bajingan']",Bully, temen gue brengsek bajingan ,NoBully
+"['bukti', 'negeri', 'dikuasai', 'bajingan']",NoBully, bukti negeri dikuasai bajingan ,Bully
+"['aura', 'si', 'emang', 'negatif', 'bajingan', 'munafik', 'melekat', 'pd', 'si', 'anies']",NoBully, aura si emang negatif bajingan munafik melekat pd si anies ,Bully
+"['bajingan', 'tolol', 'yang', 'tidak', 'peduli', 'rkyat', 'tanah', 'd', 'rampas', 'rajanya', 'pesta', 'pora', 'kaya', 'jaman', 'kompeni', 'blanda']",NoBully, bajingan tolol yang tidak peduli rkyat tanah d rampas rajanya pesta pora kaya jaman kompeni blanda ,Bully
+"['namanya', 'kadrun', 'munafik', 'culas', 'bajingan', 'karakternya', 'dgn', 'kader']",NoBully, namanya kadrun munafik culas bajingan karakternya dgn kader ,Bully
+"['bajingan', 'ngabisin', 'duit', 'rakyat']",NoBully, bajingan ngabisin duit rakyat ,Bully
+"['baja', 'bajingan']",NoBully, baja bajingan ,Bully
+"['bajingan', 'tolol', 'penipu', 'raut', 'muka', 'bersalah', 'berdosa', 'pemain', 'kawakan']",NoBully, bajingan tolol penipu raut muka bersalah berdosa pemain kawakan ,Bully
+"['wowo', 'sdh', 'thn', 'puasa', 'kekuasan', 'mertuanya', 'lengser', 'mengemis', 'menghiba', 'pd', 'si', 'bajingan', 'tolol', 'utk', 'dpt', 'jabatan', 'menteri', 'perduli', 'pendukungnya', 'kecewa', 'sikapnya', 'manusia', 'dipercaya', 'pemimpin', 'lebih', 'bahaya', 'mak', 'banteng', 'menghabiskan', 'aset', 'nkri']",NoBully, wowo sdh thn puasa kekuasan mertuanya lengser mengemis menghiba pd si bajingan tolol utk dpt jabatan menteri perduli pendukungnya kecewa sikapnya manusia dipercaya pemimpin lebih bahaya mak banteng menghabiskan aset nkri ,Bully
+"['jongos', 'bajingan', 'tolol', 'ngamuk', 'kumat', 'epilepsi']",NoBully, jongos bajingan tolol ngamuk kumat epilepsi ,Bully
+"['sdh', 'penjilat', 'penghianat', 'bangsa', 'bangakan', 'aseng', 'rendahkan', 'anak', 'bangsa', 'dasar', 'bajingan', 'tolol']",NoBully, sdh penjilat penghianat bangsa bangakan aseng rendahkan anak bangsa dasar bajingan tolol ,Bully
+"['nya', 'gk', 'seh', 'mas']",NoBully, nya gk seh mas ,Bully
+"['luhut', 'biang', 'perampasan', 'luhut', 'biang', 'penjegalan', 'luhut', 'bajingan', 'preman']",NoBully, luhut biang perampasan luhut biang penjegalan luhut bajingan preman ,Bully
+"['bajingan', 'tolol', 'orang', 'iri', 'mo', 'dukung', 'anies', 'malu', 'karna', 'ni', 'orang', 'dosa', 'maling', 'uang', 'rakyat']",NoBully, bajingan tolol orang iri mo dukung anies malu karna ni orang dosa maling uang rakyat ,Bully
+"['bajingan', 'tolol', 'dongo', 'banget', 'mama', 'kau', 'pelacur', 'pingir', 'jalan', 'ya', 'nya', 'sara', 'e', 'bajingan', 'tolol', 'menghina', 'agama', 'mulu', 'ciri', 'komunis', 'pki', 'yang', 'sara', 'tuduh', 'orang', 'sara']",NoBully, bajingan tolol dongo banget mama kau pelacur pingir jalan ya nya sara e bajingan tolol menghina agama mulu ciri komunis pki yang sara tuduh orang sara ,Bully
+"['ora', 'iso', 'turu', 'asu', 'bajingan']",NoBully, ora iso turu asu bajingan ,Bully
+['bajingan'],Bully, bajingan ,NoBully
+"['bajingan', 'mesti', 'var']",NoBully, bajingan mesti var ,Bully
+"['wasite', 'bajingan']",NoBully, wasite bajingan ,Bully
+"['bangsat', 'ijo', 'anjing', 'gausah', 'klakson', 'tidak', 'motor', 'belajar', 'anjing', 'tolol', 'bahayain', 'orang', 'anjing', 'rausah', 'ngebut', 'cok', 'berisik', 'knalpot', 'jamet', 'kabupaten', 'polisi', 'tidur', 'segede', 'dah', 'ya', 'alah', 'sih', 'orang', 'orang', 'bego', 'kaya', 'begini', 'dikasih', 'motor']",NoBully, bangsat ijo anjing gausah klakson tidak motor belajar anjing tolol bahayain orang anjing rausah ngebut cok berisik knalpot jamet kabupaten polisi tidur segede dah ya alah sih orang orang bego kaya begini dikasih motor ,Bully
+"['bangsat', 'yang', 'open', 'bo', 'mingat', 'gue', 'lihat', 'berita', 'ketutup', 'foto', 'jelek', 'lo', 'anjing', 'jancok']",NoBully, bangsat yang open bo mingat gue lihat berita ketutup foto jelek lo anjing jancok ,Bully
+"['dasar', 'bejad']",NoBully, dasar bejad ,Bully
+"['maf', 'ka', 'jodohnya', 'disitu', 'gamau', 'himpunan', 'lelaki', 'bejad']",NoBully, maf ka jodohnya disitu gamau himpunan lelaki bejad ,Bully
+"['cok', 'bejad', 'arek', 'iki']",NoBully, cok bejad arek iki ,Bully
+"['yalah', 'jadwal', 'sidang', 'upn', 'gajelas', 'gue', 'dag', 'dig', 'dug', 'napa', 'gue', 'udah', 'bingung', 'mo', 'ngapain', 'kampus', 'bejad', 'z']",NoBully, yalah jadwal sidang upn gajelas gue dag dig dug napa gue udah bingung mo ngapain kampus bejad z ,Bully
+"['gue', 'cape', 'nangisin', 'si', 'dago', 'brengsek']",NoBully, gue cape nangisin si dago brengsek ,Bully
+"['wkwkwkwk', 'aran', 'brengsek', 'banget']",NoBully, wkwkwkwk aran brengsek banget ,Bully
+"['luaranya', 'laki', 'jiwanya', 'boti', 'brengsek']",NoBully, luaranya laki jiwanya boti brengsek ,Bully
+"['wkwkwk', 'brengsek']",Bully, wkwkwk brengsek ,NoBully
+"['brengsek', 'lo', 'mncul', 'mentab', 'gue', 'gprnh', 'benernya']",NoBully, brengsek lo mncul mentab gue gprnh benernya ,Bully
+['brengsek'],Bully, brengsek ,NoBully
+"['argh', 'brengsek']",Bully, argh brengsek ,NoBully
+"['emang', 'brengsek']",Bully, emang brengsek ,NoBully
+"['argh', 'goblok', 'bngt', 'brengsek']",Bully, argh goblok bngt brengsek ,NoBully
+"['wkwkwk', 'brengsek', 'gue', 'ketawa', 'banget']",NoBully, wkwkwk brengsek gue ketawa banget ,Bully
+"['orgil', 'anjing', 'gk', 'jlas', 'banget', 'brengsek']",NoBully, orgil anjing gk jlas banget brengsek ,Bully
+"['apah', 'pemirsah', 'yak', 'waiji', 'brengsek']",NoBully, apah pemirsah yak waiji brengsek ,Bully
+"['bocah', 'jaksel', 'brengsek']",NoBully, bocah jaksel brengsek ,Bully
+"['brengsek', 'wkwkwk']",Bully, brengsek wkwkwk ,NoBully
+"['anjir', 'gila', 'banget', 'fwek', 'brengsek']",NoBully, anjir gila banget fwek brengsek ,Bully
+"['dasar', 'lelaki', 'brengsek', 'cih', 'pakyu', 'loe', 'jay']",NoBully, dasar lelaki brengsek cih pakyu loe jay ,Bully
+"['brengsek', 'wkwkwkwk']",Bully, brengsek wkwkwkwk ,NoBully
+['brengsek'],Bully, brengsek ,NoBully
+"['ni', 'org', 'bily', 'brengsek']",NoBully, ni org bily brengsek ,Bully
+"['gege', 'brengsek']",NoBully, gege brengsek ,Bully
+"['gue', 'benci', 'banget', 'nungu', 'brengsek']",NoBully, gue benci banget nungu brengsek ,Bully
+"['argh', 'bikin', 'budek']",NoBully, argh bikin budek ,Bully
+"['otot', 'politik', 'opo', 'anies', 'bukanya', 'sampean', 'yang', 'sl', 'berotot', 'berbirahi', 'politik', 'hnya', 'utk', 'berkuasa', 'dgn', 'menghalalkan', 'utk', 'menang', 'jg', 'pura', 'budek', 'pura', 'tuli', 'pura', 'hah']",NoBully, otot politik opo anies bukanya sampean yang sl berotot berbirahi politik hnya utk berkuasa dgn menghalalkan utk menang jg pura budek pura tuli pura hah ,Bully
+"['krna', 'adik', 'yang', 'dipangil', 'budek']",NoBully, krna adik yang dipangil budek ,Bully
+"['percaya', 'tidak', 'percaya', 'tapi', 'lo', 'nyuruh', 'gue', 'nanya', 'nama', 'lengkap', 'kating', 'trs', 'gue', 'gamau', 'ngasi', 'tau', 'trs', 'gue', 'ngomong', 'pakai', 'nada', 'lembut', 'mangnya', 'salah', 'gue', 'jg', 'ngomong', 'pakai', 'nada', 'lembut', 'lo', 'budek', 'sok', 'imut', 'post', 'sblmnya', 'gue', 'ditegur', 'krn', 'kagak', 'senyum', 'anjing', 'babilh', 'salah', 'mulu']",NoBully, percaya tidak percaya tapi lo nyuruh gue nanya nama lengkap kating trs gue gamau ngasi tau trs gue ngomong pakai nada lembut mangnya salah gue jg ngomong pakai nada lembut lo budek sok imut post sblmnya gue ditegur krn kagak senyum anjing babilh salah mulu ,Bully
+"['temen', 'kamar', 'gue', 'budek', 'gmn', 'seh', 'anjer', 'dah', 'dikasih', 'tau', 'berkaki', 'kaki', 'jan', 'kenceng', 'kenceng', 'trs', 'itu', 'suara']",NoBully, temen kamar gue budek gmn seh anjer dah dikasih tau berkaki kaki jan kenceng kenceng trs itu suara ,Bully
+"['mamank', 'elep', 'nya', 'budek', 'anjing', 'diturunin', 'nya', 'mayan']",NoBully, mamank elep nya budek anjing diturunin nya mayan ,Bully
+['budek'],NoBully, budek ,Bully
+[],NoBully, ,Bully
+[],NoBully, ,Bully
+[],NoBully, ,Bully
+[],NoBully, ,Bully
+"['min', 'tidur', 'min', 'udah', 'pagi', 'buta']",NoBully, min tidur min udah pagi buta ,Bully
+"['detektif', 'nya', 'gimana', 'si', 'makan', 'gaji', 'buta', 'yuta', 'gue', 'tim', 'nyimak']",NoBully, detektif nya gimana si makan gaji buta yuta gue tim nyimak ,Bully
+['buta'],NoBully, buta ,Bully
+"['ayo', 'ngerasain', 'gembel', 'ngerasa', 'bebas']",NoBully, ayo ngerasain gembel ngerasa bebas ,Bully
+"['bisanya', 'ya', 'lo', 'pas', 'lagi', 'pakai', 'baju', 'kelakuanya', 'tetep', 'gembel']",NoBully, bisanya ya lo pas lagi pakai baju kelakuanya tetep gembel ,Bully
+"['wkwkwkwk', 'kasian', 'banget', 'elu', 'gembel']",NoBully, wkwkwkwk kasian banget elu gembel ,Bully
+"['gembel', 'banget', 'notgod', 'product', 'dilolosin']",NoBully, gembel banget notgod product dilolosin ,Bully
+"['seleranya', 'wel', 'kayak', 'gembel']",NoBully, seleranya wel kayak gembel ,Bully
+"['dih', 'sama', 'klub', 'gembel']",NoBully, dih sama klub gembel ,Bully
+"['seleranya', 'wel', 'loknya', 'kayak', 'gembel']",NoBully, seleranya wel loknya kayak gembel ,Bully
+"['beda', 'server', 'kak', 'dukun', 'pakai', 'server', 'lokal']",NoBully, beda server kak dukun pakai server lokal ,Bully
+"['repot', 'hasil', 'ngarang']",NoBully, repot hasil ngarang ,Bully
+"['bagus', 'pocong', 'nya', 'alien', 'btw', 'akting', 'iwa', 'k', 'walisdi', 'dukun', 'santet', 'bagus', 'banget', 'minim', 'dialog']",NoBully, bagus pocong nya alien btw akting iwa k walisdi dukun santet bagus banget minim dialog ,Bully
+"['wkwkw', 'pocong', 'gundulnya', 'kocak', 'si']",NoBully, wkwkw pocong gundulnya kocak si ,Bully
+"['tulangnya', 'twerking']",NoBully, tulangnya twerking ,Bully
+"['knp', 'sih', 'klo', 'dukun', 'beneran', 'sakti', 'kog', 'tidak', 'nyantet', 'gubernur', 'jenderal', 'belanda', 'ajabuat', 'ngusir', 'penjajah']",NoBully, knp sih klo dukun beneran sakti kog tidak nyantet gubernur jenderal belanda ajabuat ngusir penjajah ,Bully
+"['nama', 'km', 'sean', 'tipis', 'tipis', 'bahasa', 'ingrisnya', 'laut', 'sea']",NoBully, nama km sean tipis tipis bahasa ingrisnya laut sea ,Bully
+"['kak', 'tulangnya', 'kak']",NoBully, kak tulangnya kak ,Bully
+['geblek'],NoBully, geblek ,Bully
+"['seungcheol', 'anak', 'geblek']",NoBully, seungcheol anak geblek ,Bully
+['geblek'],NoBully, geblek ,Bully
+"['wkwkwk', 'geblek']",NoBully, wkwkwk geblek ,Bully
+"['emon', 'redflag', 'banget', 'lo', 'njis', 'kasian', 'anya', 'geblek', 'yuk', 'yuk', 'nya']",NoBully, emon redflag banget lo njis kasian anya geblek yuk yuk nya ,Bully
+"['geblek', 'pari']",NoBully, geblek pari ,Bully
+['geblek'],NoBully, geblek ,Bully
+['geblek'],NoBully, geblek ,Bully
+['geblek'],NoBully, geblek ,Bully
+['geblek'],NoBully, geblek ,Bully
+"['geblek', 'bat', 'ruangan', 'ama', 'nenek', 'lampir']",NoBully, geblek bat ruangan ama nenek lampir ,Bully
+['geblek'],NoBully, geblek ,Bully
+['geblek'],NoBully, geblek ,Bully
+"['wkwkwk', 'geblek']",NoBully, wkwkwk geblek ,Bully
+"['geblek', 'kwjakwjskwj']",NoBully, geblek kwjakwjskwj ,Bully
+"['akun', 'bot', 'koplak', 'vote', 'dah', 'rampung', 'up', 'geblek']",NoBully, akun bot koplak vote dah rampung up geblek ,Bully
+"['si', 'geblek', 'salah', 'nomor', 'kartu', 'emoney', 'top', 'up', 'gue', 'gatau', 'kartu', 'tidak', 'dibarterin', 'kalau', 'tidak', 'kenal']",NoBully, si geblek salah nomor kartu emoney top up gue gatau kartu tidak dibarterin kalau tidak kenal ,Bully
+"['geblek', 'hujat']",NoBully, geblek hujat ,Bully
+"['yang', 'benar', 'aja', 'berli', 'lo', 'kebangun', 'jam', 'segini', 'emosi', 'doang', 'audit', 'pagi', 'gelo', 'geblek', 'belajar', 'h']",NoBully, yang benar aja berli lo kebangun jam segini emosi doang audit pagi gelo geblek belajar h ,Bully
+['geblek'],NoBully, geblek ,Bully
+"['si', 'geblek']",Bully, si geblek ,NoBully
+['geblek'],NoBully, geblek ,Bully
+"['sangyeon', 'gemec', 'gitu', 'apasih', 'jumil', 'apasih', 'goblok', 'geblek', 'the', 'transition', 'tho']",NoBully, sangyeon gemec gitu apasih jumil apasih goblok geblek the transition tho ,Bully
+"['dikasik', 'kerjan', 'geblek', 'emah']",NoBully, dikasik kerjan geblek emah ,Bully
+['geblek'],NoBully, geblek ,Bully
+['geblek'],NoBully, geblek ,Bully
+"['si', 'geblek', 'anjing', 't', 't']",NoBully, si geblek anjing t t ,Bully
+['geblek'],NoBully, geblek ,Bully
+['geblek'],NoBully, geblek ,Bully
+['geblek'],NoBully, geblek ,Bully
+['geblek'],NoBully, geblek ,Bully
+"['heboh', 'penata', 'rambutnya', 'outfitnya', 'elo', 'yang', 'artisnya', 'geblek']",NoBully, heboh penata rambutnya outfitnya elo yang artisnya geblek ,Bully
+"['org', 'gila', 'biarin', 'aj', 'nykitin', 'dari', 'sndri', 'kek', 'mati', 'kek']",NoBully, org gila biarin aj nykitin dari sndri kek mati kek ,Bully
+"['barca', 'gila']",NoBully, barca gila ,Bully
+"['shimkongz', 'beneran', 'udah', 'gila']",NoBully, shimkongz beneran udah gila ,Bully
+"['beda', 'level', 'goblok', 'edie', 'ucl', 'onana', 'tidak', 'ucl', 'minimal', 'ucl', 'wkwk', 'mampus', 'enak', 'tidak', 'gituin']",NoBully, beda level goblok edie ucl onana tidak ucl minimal ucl wkwk mampus enak tidak gituin ,Bully
+"['woy', 'kunyuk', 'elu', 'senin', 'selasa', 'rabu', 'bahasa', 'dari', 'kalau', 'goblok', 'dipatenin']",NoBully, woy kunyuk elu senin selasa rabu bahasa dari kalau goblok dipatenin ,Bully
+"['dkomen', 'yang', 'bilang', 'fans', 'yang', 'sngaja', 'ship', 'jangan', 'goblok', 'fans', 'laki', 'yang', 'ngship', 'dari', 'jaman', 'era', 'who', 'dis', 'dlu', 'd', 'ytube', 'udah', 'dluan', 'jdi', 'fans', 'kpop', 'tapi', 'kalah', 'segi', 'pemikiran', 'dari', 'fans', 'dita', 'yang', 'cm', 'angap', 'hiburan', 'doang', 'alias', 'cocoklogi', 'fiktif', 'blok', 'goblok']",NoBully, dkomen yang bilang fans yang sngaja ship jangan goblok fans laki yang ngship dari jaman era who dis dlu d ytube udah dluan jdi fans kpop tapi kalah segi pemikiran dari fans dita yang cm angap hiburan doang alias cocoklogi fiktif blok goblok ,Bully
+"['goblok', 'benar', 'lakinya']",NoBully, goblok benar lakinya ,Bully
+"['ngatain', 'pengalaman', 'orang', 'muda', 'lha', 'kuwi', 'jenenge', 'golek', 'pengalaman', 'to', 'blok', 'goblok']",NoBully, ngatain pengalaman orang muda lha kuwi jenenge golek pengalaman to blok goblok ,Bully
+"['goblok', 'banget', 'penegakan', 'hukum', 'yang', 'd', 'bantu', 'rakyat', 'bambang', 'noh', 'tangkapin', 'teroris', 'papua']",NoBully, goblok banget penegakan hukum yang d bantu rakyat bambang noh tangkapin teroris papua ,Bully
+"['orang', 'goblok', 'gampang', 'kemakan', 'hoax']",NoBully, orang goblok gampang kemakan hoax ,Bully
+"['krn', 'goblok', 'pura', 'megawati', 'mg', 'malas', 'kuliah', 'isi', 'pidatonya', 'omong', 'kosong']",NoBully, krn goblok pura megawati mg malas kuliah isi pidatonya omong kosong ,Bully
+"['begini', 'manusia', 'goblok', 'sampah', 'sehinga', 'otaknya', 'berisi', 'kotoran', 'pikiranya', 'media', 'berbobot', 'isinya', 'berita', 'berbobot', 'dagelan', 'kebencian']",NoBully, begini manusia goblok sampah sehinga otaknya berisi kotoran pikiranya media berbobot isinya berita berbobot dagelan kebencian ,Bully
+"['media', 'goblok', 'sih', 'teriak', 'bubarkan', 'turunkan', 'tidak', 'hasilnya', 'teriak', 'bubarkan', 'pemerintah']",NoBully, media goblok sih teriak bubarkan turunkan tidak hasilnya teriak bubarkan pemerintah ,Bully
+"['goblok', 'cepu', 'goblok', 'belajar']",Bully, goblok cepu goblok belajar ,NoBully
+"['we', 're', 'leaving', 'problematic', 'fanbases', 'ganguin', 'btw', 'lo', 'tidak', 'diajakin', 'ngobrol', 'ikutan', 'nimbrung', 'ngatain', 'org', 'goblok', 'wkwk', 'tapi', 'sih', 'yang', 'diharepin', 'orang', 'yang', 'analisisnya', 'kaya', 'lo', 'lmfao']",NoBully, we re leaving problematic fanbases ganguin btw lo tidak diajakin ngobrol ikutan nimbrung ngatain org goblok wkwk tapi sih yang diharepin orang yang analisisnya kaya lo lmfao ,Bully
+"['lo', 'goblok', 'dulunya', 'pinter', 'jdi', 'buzerpnis', 'kontol', 'tl']",NoBully, lo goblok dulunya pinter jdi buzerpnis kontol tl ,Bully
+"['goblok', 'bin', 'dungu', 'loe', 'mu', 'kalau', 'ucapin', 'asalamualaikum', 'lengkap', 'kalau', 'ucapin', 'inalilahi', 'lengkap', 'dasar', 'kadroen', 'titid']",NoBully, goblok bin dungu loe mu kalau ucapin asalamualaikum lengkap kalau ucapin inalilahi lengkap dasar kadroen titid ,Bully
+"['lo', 'cowo', 'banci', 'celamitan', 'banget', 'ngurusin', 'org', 'cebong', 'goblok']",NoBully, lo cowo banci celamitan banget ngurusin org cebong goblok ,Bully
+"['kadrun', 'kalau', 'tidak', 'goblok', 'ya', 'gila']",NoBully, kadrun kalau tidak goblok ya gila ,Bully
+"['undang', 'undang', 'sialan', 'orang', 'goblok', 'senayan', 'mendukungnya', 'eh', 'iya', 'goblok']",NoBully, undang undang sialan orang goblok senayan mendukungnya eh iya goblok ,Bully
+"['ngatain', 'orang', 'goblok', 'kaumnya', 'yang', 'seneng', 'ketipu', 'editan', 'wkwk']",NoBully, ngatain orang goblok kaumnya yang seneng ketipu editan wkwk ,Bully
+"['mari', 'ngeroasting', 'mantanku', 'soale', 'de', 'goblok']",NoBully, mari ngeroasting mantanku soale de goblok ,Bully
+"['orang', 'elu', 'd', 'butuhkan', 'penguasa', 'butuh', 'rakyatbyg', 'idiot', 'goblok', 'pandir', 'aset', 'utama', 'penguasa', 'hancurkan', 'nkri', 'penjahan', 'gaya', 'invasi', 'bekedok', 'investasi', 'londo', 'ireng', 'pribumi', 'd', 'manfatkan', 'menindas', 'pribumi']",NoBully, orang elu d butuhkan penguasa butuh rakyatbyg idiot goblok pandir aset utama penguasa hancurkan nkri penjahan gaya invasi bekedok investasi londo ireng pribumi d manfatkan menindas pribumi ,Bully
+"['goblok', 'goblokin', 'org', 'digoblokin', 'editan', 'shame', 'shesh']",NoBully, goblok goblokin org digoblokin editan shame shesh ,Bully
+"['jahlul', 'murokab', 'alias', 'goblok', 'berlipat']",NoBully, jahlul murokab alias goblok berlipat ,Bully
+"['wkwkwk', 'gol', 'hiburan', 'klo', 'ngebacot', 'tungu', 'pertandingan', 'abis', 'bos', 'dah', 'koment', 'semau', 'lo', 'klo', 'udah', 'kyk', 'begini', 'ketauan', 'lo', 'goblok']",NoBully, wkwkwk gol hiburan klo ngebacot tungu pertandingan abis bos dah koment semau lo klo udah kyk begini ketauan lo goblok ,Bully
+"['omonganmu', 'koyok', 'tai', 'mas', 'kalau', 'emang', 'tidak', 'hati', 'nurani', 'mending', 'diam', 'yang', 'kalopun', 'goblok', 'ya', 'minimal', 'dipertontonkan', 'terang', 'terangan', 'kecuali', 'emang', 'tidak', 'malu']",NoBully, omonganmu koyok tai mas kalau emang tidak hati nurani mending diam yang kalopun goblok ya minimal dipertontonkan terang terangan kecuali emang tidak malu ,Bully
+"['tarif', 'tiket', 'berdasarkan', 'kemampuan', 'ekonomi', 'goblok', 'aja', 'pengelola', 'transportasi', 'publik']",NoBully, tarif tiket berdasarkan kemampuan ekonomi goblok aja pengelola transportasi publik ,Bully
+"['goblok', 'pakai', 'ngatur', 'gue']",NoBully, goblok pakai ngatur gue ,Bully
+"['dlm', 'hidup', 'goblok', 'istilah', 'tpi', 'yang', 'ahli', 'tatakata', 'tpi', 'gk', 'kerja', 'penjual', 'obat', 'kyk', 'anus']",NoBully, dlm hidup goblok istilah tpi yang ahli tatakata tpi gk kerja penjual obat kyk anus ,Bully
+"['eh', 'goblok', 'gue', 'cheat', 'lo', 'kagak', 'ya', 'bos', 'kerjain', 'daily', 'blog']",NoBully, eh goblok gue cheat lo kagak ya bos kerjain daily blog ,Bully
+"['aduh', 'goblok', 'banget', 'menjaga', 'warung', 'pure', 'kebodohanya', 'astaghfirulah']",NoBully, aduh goblok banget menjaga warung pure kebodohanya astaghfirulah ,Bully
+"['map', 'banget', 'klo', 'konteks', 'awalny', 'becanda', 'candan', 'tongkrongan', 'keknya', 'gp', 'klo', 'dijadin', 'trend', 'ya', 'goblok', 'si', 'ok', 'terimakasih', 'selamat', 'pagi']",NoBully, map banget klo konteks awalny becanda candan tongkrongan keknya gp klo dijadin trend ya goblok si ok terimakasih selamat pagi ,Bully
+"['orang', 'tolol', 'yang', 'nulis', 'goblok', 'yang', 'percaya', 'goblok', 'goblok', 'nya', 'nyundul', 'langit']",Bully, orang tolol yang nulis goblok yang percaya goblok goblok nya nyundul langit ,NoBully
+"['lo', 'tolol', 'banget', 'yang', 'ngeship', 'disana', 'ngeramein', 'anjing', 'caper', 'banget', 'lo', 'langsung', 'aja', 'balas', 'yang', 'ngeship', 'idol', 'lo', 'disana', 'anjing', 'goblok', 'banget', 'sumpah', 'otak', 'lo', 'dimana', 'sih', 'dasar', 'otak', 'pembantu']",NoBully, lo tolol banget yang ngeship disana ngeramein anjing caper banget lo langsung aja balas yang ngeship idol lo disana anjing goblok banget sumpah otak lo dimana sih dasar otak pembantu ,Bully
+"['brarti', 'lue', 'yang', 'goblok', 'tidak', 'tau']",NoBully, brarti lue yang goblok tidak tau ,Bully
+"['pelajari', 'vidio', 'thn', 'brp', 'jangan', 'goblok']",NoBully, pelajari vidio thn brp jangan goblok ,Bully
+"['vidio', 'jaman', 'sby', 'orang', 'goblok', 'pekok', 'yang', 'termakqn', 'hoax', 'murahan']",NoBully, vidio jaman sby orang goblok pekok yang termakqn hoax murahan ,Bully
+"['heru', 'budi', 'emang', 'goblok', 'banget', 'emang']",NoBully, heru budi emang goblok banget emang ,Bully
+"['karna', 'kadrun', 'jd', 'ya', 'auto', 'goblok']",NoBully, karna kadrun jd ya auto goblok ,Bully
+"['orang', 'arab', 'dibilang', 'kafir', 'kalem', 'dibilang', 'non', 'muslim', 'ngamuk', 'elunya', 'aja', 'goblok']",NoBully, orang arab dibilang kafir kalem dibilang non muslim ngamuk elunya aja goblok ,Bully
+"['orang', 'arab', 'dibilang', 'kafir', 'kalem', 'dibilang', 'non', 'muslim', 'ngamuk', 'elunya', 'aja', 'goblok']",NoBully, orang arab dibilang kafir kalem dibilang non muslim ngamuk elunya aja goblok ,Bully
+"['yang', 'goblok', 'gubernurnya', 'tgup']",NoBully, yang goblok gubernurnya tgup ,Bully
+"['si', 'cakep', 'gada', 'otaknya', 'alias', 'goblok', 'cape', 'anjir', 'diajak', 'ngobrol', 'haha']",NoBully, si cakep gada otaknya alias goblok cape anjir diajak ngobrol haha ,Bully
+"['heran', 'ya', 'begini', 'manusia', 'goblok', 'nya', 'yang', 'indonesia']",NoBully, heran ya begini manusia goblok nya yang indonesia ,Bully
+"['nih', 'liat', 'goblok', 'pakai', 'tuh', 'mata', 'otak', 'kasian', 'ngangur']",NoBully, nih liat goblok pakai tuh mata otak kasian ngangur ,Bully
+"['benda', 'basic', 'rakyat', 'malaysia', 'tau', 'ala', 'kau', 'hafal', 'lagu', 'negaraku', 'lagu', 'negaraku', 'tau', 'tau', 'nak', 'cakap']",NoBully, benda basic rakyat malaysia tau ala kau hafal lagu negaraku lagu negaraku tau tau nak cakap ,Bully
+"['orang', 'orang', 'idiot', 'bahas', 'agama', 'syurga', 'neraka', 'perut', 'neg', 'bacanya', 'jijik', 'sebah', 'muntah', 'baca', 'narasinya']",NoBully, orang orang idiot bahas agama syurga neraka perut neg bacanya jijik sebah muntah baca narasinya ,Bully
+"['pakai', 'nanya', 'si', 'idiot']",NoBully, pakai nanya si idiot ,Bully
+"['sewidak', 'likur', 'i', 'boso', 'jowo', 'ngendi', 'blok', 'kancamu', 'iso', 'idiot']",NoBully, sewidak likur i boso jowo ngendi blok kancamu iso idiot ,Bully
+"['nuh', 'uh']",NoBully, nuh uh ,Bully
+"['parah', 'negara', 'sepiteng', 'totalitas', 'menzalimi', 'warga', 'amp', 'dg', 'ngumat', 'idiot', 'sinting', 'penyembah', 'hahbabi', 'sarap', 'sangit', 'sampai', 'mampus', 'musnah', 'berdamai', 'dg', 'kebusukan', 'total', 'setan', 'iblis', 'dajal']",NoBully, parah negara sepiteng totalitas menzalimi warga amp dg ngumat idiot sinting penyembah hahbabi sarap sangit sampai mampus musnah berdamai dg kebusukan total setan iblis dajal ,Bully
+"['orang', 'elu', 'd', 'butuhkan', 'penguasa', 'butuh', 'rakyatbyg', 'idiot', 'goblok', 'pandir', 'aset', 'utama', 'penguasa', 'hancurkan', 'nkri', 'penjahan', 'gaya', 'invasi', 'bekedok', 'investasi', 'londo', 'ireng', 'pribumi', 'd', 'manfatkan', 'menindas', 'pribumi']",NoBully, orang elu d butuhkan penguasa butuh rakyatbyg idiot goblok pandir aset utama penguasa hancurkan nkri penjahan gaya invasi bekedok investasi londo ireng pribumi d manfatkan menindas pribumi ,Bully
+"['maba', 'alay', 'bangsat', 'ntar', 'pas', 'ospek', 'bentak', 'dikit', 'diviralin', 'tidak', 'orang', 'jg', 'main', 'twiter', 'blok', 'idiot']",NoBully, maba alay bangsat ntar pas ospek bentak dikit diviralin tidak orang jg main twiter blok idiot ,Bully
+"['dih', 'kagak', 'nyambung', 'gue', 'muntah', 'liat', 'twet', 'lo', 'gue', 'dah', 'ya', 'males', 'ngadepin', 'lo', 'have', 'a', 'nice', 'day', 'idiot']",NoBully, dih kagak nyambung gue muntah liat twet lo gue dah ya males ngadepin lo have a nice day idiot ,Bully
+"['th', 'berkorban', 'harta', 'nyawa', 'melawan', 'nazi', 'ndilalah', 'skrg', 'kasih', 'aplaus', 'tentara', 'nazi', 'yang', 'mgkn', 'sj', 'sdh', 'menembak', 'bunuh', 'kakek', 'moyangnya', 'palagan', 'eropa', 'dari', 'yang', 'tepuk', 'tangan', 'idiot', 'koplok', 'gombal', 'tingkat', 'dewa', 'demokrasi', 'ukr', 'rela', 'mnjilat', 'pantat', 'pembunuh']",NoBully, th berkorban harta nyawa melawan nazi ndilalah skrg kasih aplaus tentara nazi yang mgkn sj sdh menembak bunuh kakek moyangnya palagan eropa dari yang tepuk tangan idiot koplok gombal tingkat dewa demokrasi ukr rela mnjilat pantat pembunuh ,Bully
+"['mikir', 'tidak', 'idiot', 'ntar', 'jenie', 'kena', 'drag', 'disalahin', 'yang', 'gatau']",NoBully, mikir tidak idiot ntar jenie kena drag disalahin yang gatau ,Bully
+"['pelatihnya', 'tolol', 'min', 'idiot', 'bikin', 'emosi', 'aja']",NoBully, pelatihnya tolol min idiot bikin emosi aja ,Bully
+"['idiot', 'kalau', 'mu', 'yang', 'kebobolan', 'gk', 'cek', 'var']",NoBully, idiot kalau mu yang kebobolan gk cek var ,Bully
+"['ya', 'namanya', 'back', 'to', 'back', 'kontol', 'kalau', 'treble', 'tempo', 'setahun', 'tropy', 'berbeda', 'manusia', 'kontol', 'idiot']",NoBully, ya namanya back to back kontol kalau treble tempo setahun tropy berbeda manusia kontol idiot ,Bully
+"['hatrick', 'ucl', 'gimana', 'fans', 'idiot', 'back', 'to', 'back', 'zidan', 'idiot']",NoBully, hatrick ucl gimana fans idiot back to back zidan idiot ,Bully
+"['fans', 'lo', 'idiot', 'ya', 'eti', 'heran', 'isinya', 'cium', 'jilat', 'cium', 'jilat']",NoBully, fans lo idiot ya eti heran isinya cium jilat cium jilat ,Bully
+"['kek', 'ti', 'si', 'idiot']",NoBully, kek ti si idiot ,Bully
+"['tim', 'idiot', 'anjing', 'celta', 'sangat', 'back', 'nya']",NoBully, tim idiot anjing celta sangat back nya ,Bully
+['jelek'],NoBully, jelek ,Bully
+['jelek'],NoBully, jelek ,Bully
+"['ah', 'tahan', 'tahan', 'beli', 'buku', 'inget', 'hapemu', 'udah', 'jelek']",NoBully, ah tahan tahan beli buku inget hapemu udah jelek ,Bully
+"['jerawat', 'hidung', 'jelek', 'kali']",NoBully, jerawat hidung jelek kali ,Bully
+['jelek'],NoBully, jelek ,Bully
+"['kak', 'adrof', 'jelek']",NoBully, kak adrof jelek ,Bully
+"['jelek', 'banget', 'huft']",NoBully, jelek banget huft ,Bully
+['jelek'],NoBully, jelek ,Bully
+"['ahahahahah', 'lucu', 'banget', 'lo', 'jelek']",NoBully, ahahahahah lucu banget lo jelek ,Bully
+"['jelek', 'misah', 'gitu']",NoBully, jelek misah gitu ,Bully
+"['dih', 'lari', 'opini', 'nya', 'jelek', 'lari']",NoBully, dih lari opini nya jelek lari ,Bully
+['jelek'],NoBully, jelek ,Bully
+"['pakai', 'baju', 'nya', 'jelek']",NoBully, pakai baju nya jelek ,Bully
+"['nangis', 'jelek']",NoBully, nangis jelek ,Bully
+['kampungan'],NoBully, kampungan ,Bully
+['kampungan'],NoBully, kampungan ,Bully
+"['muka', 'nya', 'plis', 'kaya', 'monyet', 'banget', 'tidak', 'kuad']",NoBully, muka nya plis kaya monyet banget tidak kuad ,Bully
+"['viral', 'klarifikasi', 'loe', 'monyet', 'kelakuan', 'lo', 'katro']",NoBully, viral klarifikasi loe monyet kelakuan lo katro ,Bully
+"['parah', 'negara', 'sepiteng', 'totalitas', 'menzalimi', 'warga', 'amp', 'dg', 'ngumat', 'idiot', 'sinting', 'penyembah', 'hahbabi', 'sarap', 'sangit', 'sampai', 'mampus', 'musnah', 'berdamai', 'dg', 'kebusukan', 'total', 'setan', 'iblis', 'dajal']",NoBully, parah negara sepiteng totalitas menzalimi warga amp dg ngumat idiot sinting penyembah hahbabi sarap sangit sampai mampus musnah berdamai dg kebusukan total setan iblis dajal ,Bully
+"['muka', 'ama', 'review', 'makanan', 'hubunganya', 'bjir', 'sarap', 'nih', 'orang']",NoBully, muka ama review makanan hubunganya bjir sarap nih orang ,Bully
+"['sarap', 'memang']",NoBully, sarap memang ,Bully
+"['kesialan', 'warga', 'yang', 'meridhoi', 'negara', 'sepiteng', 'bikinan', 'parah', 'hahbabi', 'sarap', 'sangit', 'berlanjut', 'abadi', 'sepiteng', 'kerak', 'jahanam', 'patuh', 'tat', 'hahbabi', 'menganut', 'demoncrazy', 'terjamin', 'warga', 'abadi', 'sepiteng', 'kerak', 'jahanam']",NoBully, kesialan warga yang meridhoi negara sepiteng bikinan parah hahbabi sarap sangit berlanjut abadi sepiteng kerak jahanam patuh tat hahbabi menganut demoncrazy terjamin warga abadi sepiteng kerak jahanam ,Bully
+"['ya', 'alah', 'gedeg', 'aja', 'gue', 'bikin', 'bencana', 'sarap', 'lo', 'bikin', 'foto', 'prewed', 'ngerusak', 'alam']",NoBully, ya alah gedeg aja gue bikin bencana sarap lo bikin foto prewed ngerusak alam ,Bully
+"['kayaknya', 'urg', 'kalau', 'naksir', 'orang', 'emang', 'suka', 'blon', 'first', 'date', 'sendal', 'lepas', 'sebelah', 'sarap', 'anying']",NoBully, kayaknya urg kalau naksir orang emang suka blon first date sendal lepas sebelah sarap anying ,Bully
+"['opini', 'goblok', 'manusia', 'tertolol', 'lo', 'ngatain', 'caper', 'sus', 'member', 'yang', 'udah', 'angap', 'd', 'o', 'teman', 'seumur', 'hidup', 'banget', 'gue', 'yang', 'ngatain', 'member', 'gitu', 'sarap', 'emang']",NoBully, opini goblok manusia tertolol lo ngatain caper sus member yang udah angap d o teman seumur hidup banget gue yang ngatain member gitu sarap emang ,Bully
+"['mimpi', 'tolol', 'klub', 'miskin', 'minimal', 'bayar', 'pemain', 'city', 'cancelo', 'feran']",NoBully, mimpi tolol klub miskin minimal bayar pemain city cancelo feran ,Bully
+"['harganya', 'sehinga', 'orang', 'yang', 'makan', 'harganya', 'tidak', 'takut', 'ditembak', 'kader', 'partai', 'yang', 'sok', 'tau', 'memviralkan', 'warung', 'kader', 'tolol', 'yang', 'rest', 'area']",NoBully, harganya sehinga orang yang makan harganya tidak takut ditembak kader partai yang sok tau memviralkan warung kader tolol yang rest area ,Bully
+"['rl', 'ketemu', 'cowok', 'kaya', 'gitu', 'ih', 'nangis', 'gue', 'mah', 'udah', 'dijauhin', 'tapi', 'kerjasama', 'ojt', 'hrs', 'komunikasi', 'gitu', 'tolol', 'cowoknya', 'bagus', 'kaya', 'gitu', 'sampai', 'merinding', 'gue', 'sakit', 'utg', 'gue', 'duluan', 'gegara', 'sakit', 'tidak', 'nyambung', 'sakitnya', 'tapi', 'alasan']",NoBully, rl ketemu cowok kaya gitu ih nangis gue mah udah dijauhin tapi kerjasama ojt hrs komunikasi gitu tolol cowoknya bagus kaya gitu sampai merinding gue sakit utg gue duluan gegara sakit tidak nyambung sakitnya tapi alasan ,Bully
+"['percaya', 'rumor', 't', 'pi', 'tai', 'bakalan', 'date', 'cewek', 'tidak', 'cowok', 'anjing', 'tolol', 'ngatain', 'tolol', 'bilang', 'tai', 'dating', 'women', 'tuh', 'langsung', 'tantrum', 'jekicot', 'dating', 'bongo']",NoBully, percaya rumor t pi tai bakalan date cewek tidak cowok anjing tolol ngatain tolol bilang tai dating women tuh langsung tantrum jekicot dating bongo ,Bully
+"['bajingan', 'tolol', 'dongo', 'banget', 'emang', 'nya', 'dunia', 'rocky', 'gerung', 'doang', 'contoh', 'kau', 'pelacur', 'kampung', 'namanya', 'pelacur', 'kampung', 'mu', 'doang', 'betul', 'tidak', 'monyet']",NoBully, bajingan tolol dongo banget emang nya dunia rocky gerung doang contoh kau pelacur kampung namanya pelacur kampung mu doang betul tidak monyet ,Bully
+"['amin', 'semoga', 'bajingan', 'tolol', 'sadar', 'ya']",NoBully, amin semoga bajingan tolol sadar ya ,Bully
+"['pantes', 'aja', 'gampang', 'luluh', 'udah', 'naksir', 'duluan', 'bocil', 'kalau', 'lo', 'diselingkuhi', 'ngasih', 'maf', 'kali', 'ya', 'cinta', 'emang', 'bikin', 'tolol']",NoBully, pantes aja gampang luluh udah naksir duluan bocil kalau lo diselingkuhi ngasih maf kali ya cinta emang bikin tolol ,Bully
+['tolol'],Bully, tolol ,NoBully
+"['jeh', 'tolol', 'mknya', 'kalau', 'belum', 'anak', 'kontrol', 'itu', 'napsu', 'lo']",NoBully, jeh tolol mknya kalau belum anak kontrol itu napsu lo ,Bully
+"['wkwkwk', 'biarin', 'si', 'fakta', 'permasalahanya', 'gmna', 'lucu', 'liat', 'orng', 'tolol', 'bgini']",NoBully, wkwkwk biarin si fakta permasalahanya gmna lucu liat orng tolol bgini ,Bully
+"['maf', 'ya', 'terpaksa', 'sy', 'bodoh', 'amp', 'tolol', 'dikasih', 'kesempatan', 'hidup', 'utk', 'merubah', 'takdir', 'kau', 'ngak', 'bagus', 'mati', 'dilahirkan', 'ketetapanmu', 'dilahirkan', 'dlm', 'keadan', 'kafir']",NoBully, maf ya terpaksa sy bodoh amp tolol dikasih kesempatan hidup utk merubah takdir kau ngak bagus mati dilahirkan ketetapanmu dilahirkan dlm keadan kafir ,Bully
+"['pulau', 'rempang', 'berduka', 'orang', 'in', 'kemana', 'aja', 'hilang', 'telan', 'bumi', 'udah', 'kubur', 'ngepet', 'pindah', 'cari', 'sasaran', 'bisnis', 'investorx', 'coba', 'bajingan', 'tolol']",NoBully, pulau rempang berduka orang in kemana aja hilang telan bumi udah kubur ngepet pindah cari sasaran bisnis investorx coba bajingan tolol ,Bully
+"['mampus', 'dibuly', 'tolol', 'sih']",NoBully, mampus dibuly tolol sih ,Bully
+"['dungu', 'menyandang', 'gelar', 'bajingan', 'tolol']",NoBully, dungu menyandang gelar bajingan tolol ,Bully
+"['orang', 'tolol', 'ngatain', 'orang', 'tolol', 'konsepnya', 'gimana', 'ya']",Bully, orang tolol ngatain orang tolol konsepnya gimana ya ,NoBully
+"['famplat', 'apan', 'tolol']",NoBully, famplat apan tolol ,Bully
+"['tolol', 'bangsat']",NoBully, tolol bangsat ,Bully
+"['lo', 'aja', 'tolol', 'ajig', 'info', 'tidak', 'baca', 'ya', 'susah']",NoBully, lo aja tolol ajig info tidak baca ya susah ,Bully
+"['nih', 'lonte', 'tolol', 'yang', 'mahu', 'siksa', 'smpe', 'jdi', 'tolol', 'beneran']",NoBully, nih lonte tolol yang mahu siksa smpe jdi tolol beneran ,Bully
+"['orangnya', 'kemana', 'ya', 'ko', 'tidak', 'nongol', 'udah', 'mati', 'kah', 'kalau', 'udah', 'mati', 'alhamdulilah', 'ngurangin', 'orang', 'tolol']",NoBully, orangnya kemana ya ko tidak nongol udah mati kah kalau udah mati alhamdulilah ngurangin orang tolol ,Bully
+"['oh', 'cewe', 'pintar', 'memilih', 'cowo', 'tolol', 'kayak', 'lo']",NoBully, oh cewe pintar memilih cowo tolol kayak lo ,Bully
+"['buzerpki', 'munafik', 'bajingan', 'tolol', 'cebong', 'penjilat', 'bangsa', 'kader', 'abubu', 'in', 'gk', 'mengalahkan', 'anis', 'karna', 'ganjar', 'korupsi', 'ktp', 'wowok', 'pendukungx', 'udah', 'kecewa', 'munafik']",NoBully, buzerpki munafik bajingan tolol cebong penjilat bangsa kader abubu in gk mengalahkan anis karna ganjar korupsi ktp wowok pendukungx udah kecewa munafik ,Bully
+"['tidak', 'nya', 'nanya', 'manusia', 'kasih', 'otak', 'digunain', 'manusia', 'kasih', 'akal', 'beda', 'hewan', 'tolol']",NoBully, tidak nya nanya manusia kasih otak digunain manusia kasih akal beda hewan tolol ,Bully
+"['tau', 'dah', 'udah', 'bagus', 'mod', 'gue', 'nonton', 'jungkok', 'gcf', 'eh', 'muncul', 'si', 'tolol', 'percaya', 'editan', 'trs', 'ngatain', 'record', 'sbg', 'editan', 'sih', 'yang', 'diharepin', 'dari', 'orang', 'yang', 'percaya', 'rumor', 'otaknya', 'aja', 'tidak', 'kerja']",NoBully, tau dah udah bagus mod gue nonton jungkok gcf eh muncul si tolol percaya editan trs ngatain record sbg editan sih yang diharepin dari orang yang percaya rumor otaknya aja tidak kerja ,Bully
+"['memangnya', 'ibukota', 'negara', 'hiruk', 'pikuk', 'penuh', 'sesak', 'manusia', 'tolol', 'sangat']",NoBully, memangnya ibukota negara hiruk pikuk penuh sesak manusia tolol sangat ,Bully
+"['liat', 'chanel', 'tolol']",NoBully, liat chanel tolol ,Bully
+"['dasar', 'tolol', 'lo', 'tidak', 'ligat', 'rempang', 'lainya', 'yang', 'havur', 'dirusak']",NoBully, dasar tolol lo tidak ligat rempang lainya yang havur dirusak ,Bully
+"['kampung', 'banget', 'maenya', 'timnas', 'terjelek', 'gameplay', 'udik']",NoBully, kampung banget maenya timnas terjelek gameplay udik ,Bully
+"['udik', 'banget', 'tidak', 'sih', 'klo', 'gatau']",NoBully, udik banget tidak sih klo gatau ,Bully
+"['gile', 'okep', 'pgn', 'dilegalkan', 'mbok', 'udik', 'on', 'kabina', 'bina']",NoBully, gile okep pgn dilegalkan mbok udik on kabina bina ,Bully
+"['mainan', 'nya', 'bokep', 'bokep', 'udik']",NoBully, mainan nya bokep bokep udik ,Bully

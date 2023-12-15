@@ -8,7 +8,7 @@ from sklearn.metrics import classification_report
 from sklearn.decomposition import PCA
 
 # Load the data
-df = pd.read_csv('finale.csv')
+df = pd.read_csv('clean.csv')
 
 # Preprocess the text
 df['text'] = df['full_text'].apply(lambda x: re.sub(r'\W+', ' ', x.lower()))
