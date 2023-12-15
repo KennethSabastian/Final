@@ -51,12 +51,6 @@ def split(text):
             text2.append(kata)
     return text2
 
-import nltk
-#nltk.download("stopwords")
-from nltk.corpus import stopwords
-
-list_stopwords = set(stopwords.words('indonesian'))
-print(list_stopwords)
 data['full_text'] = data['full_text'].apply(preposessing).apply(split)
 
 # Drop kolom tweet_url
@@ -78,13 +72,13 @@ print("Distribusi Kelas: ")
 print(data['Label'].value_counts())
 print("")
 # Statistik Kata: Identifikasi kata-kata paling umum yang muncul
-from collections import Counter
-import itertools
+
 
 # Menghitung jumlah kata
 #data['full_text'] = data['full_text'].apply(Counter)
 ## Menghitung jumlah kata yang unik
 #data['full_text'] = data['full_text'].apply(dict)
+
 word_count = dict()
 for index in range(len(data.index)):
     for kata in data.iloc[index,0]:
