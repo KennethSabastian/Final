@@ -40,7 +40,7 @@ def preposessing(text):
     return text
 
 def clean_label(kata):
-    if kata.find("No"):
+    if kata.find("No")!=-1:
         kata = "NoBully"
     else:
         kata = "Bully"
